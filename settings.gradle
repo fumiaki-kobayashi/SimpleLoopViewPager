@@ -1,1 +1,1 @@
-include ':loopview'
+include ':loopview', ":sample"
