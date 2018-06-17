@@ -2,7 +2,8 @@
 
 * version 1.0.0
 
-ループするように見えるViewPagerを作成しました。
+ループするViewPagerを作成しました。
+
 ViewPagerとAdapterにループの処理を分ける事で、処理を完結に。
 
 ## 使用方法
